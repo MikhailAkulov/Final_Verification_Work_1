@@ -1,0 +1,15 @@
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\bin\Debug\net6.0\Control_project.exe
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\bin\Debug\net6.0\Control_project.deps.json
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\bin\Debug\net6.0\Control_project.runtimeconfig.json
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\bin\Debug\net6.0\Control_project.dll
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\bin\Debug\net6.0\Control_project.pdb
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.csproj.AssemblyReference.cache
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.AssemblyInfoInputs.cache
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.AssemblyInfo.cs
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.csproj.CoreCompileInputs.cache
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.dll
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\refint\Control_project.dll
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.pdb
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\Control_project.genruntimeconfig.cache
+C:\Users\Akulo\Desktop\Final_Verification_Work_1\Control_project\obj\Debug\net6.0\ref\Control_project.dll
